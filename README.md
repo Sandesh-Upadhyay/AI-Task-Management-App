@@ -1,68 +1,51 @@
-AI Task Management App
+# AI Task Management App
 
-🚀 Overview
+## Description
+AI Task Management App is a smart task management system powered by AI to help users efficiently organize, track, and complete their tasks. The app is built using React and integrates AI assistance for task automation.
 
-The AI Task Management App is an advanced task manager powered by AI to help users efficiently organize, prioritize, and automate tasks. Built using modern web technologies, it ensures seamless task tracking and management.
+## Features
+- ✅ AI-powered task recommendations
+- ✅ Task categorization and prioritization
+- ✅ Google OAuth authentication
+- ✅ User-friendly UI with drag-and-drop functionality
+- ✅ Dark mode support
 
-🌟 Features
+## Installation
 
-📌 Task Creation & Organization – Easily create, edit, and categorize tasks.
-
-🤖 AI-Powered Assistance – Smart suggestions for task prioritization.
-
-📅 Due Dates & Reminders – Never miss a deadline with automated reminders.
-
-🖥️ User-Friendly UI – Responsive and intuitive design.
-
-🔐 Authentication – Secure login with Google OAuth integration.
-
-🛠️ Tech Stack
-
-Frontend: React.js, Vite, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: Google OAuth
-
-📦 Installation & Setup
-
-Follow these steps to run the project locally:
-
-Clone the Repository
-
+```sh
+# Clone the repository
 git clone https://github.com/Sandesh-Upadhyay/AI-Task-Management-App.git
 
-Navigate to Project Folder
-
+# Navigate to the project directory
 cd AI-Task-Management-App
 
-Install Dependencies
-
+# Install dependencies
 npm install
 
-Run the Application
-
+# Start the development server
 npm run dev
+```
 
-Open in Browser
+## Usage
+1. Sign in using Google OAuth.
+2. Create and organize your tasks.
+3. Get AI-powered task suggestions.
+4. Enjoy an efficient workflow!
 
-Visit http://localhost:5173 (or the port specified in your terminal).
+## Technologies Used
+- React.js
+- Vite
+- Tailwind CSS
+- AI APIs (for task recommendations)
+- Firebase Authentication
 
-📜 License
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
 
+## License
 This project is licensed under the MIT License.
 
-📧 Contact
-
-For any queries or collaborations, feel free to reach out:
-
-GitHub: Sandesh-Upadhyay
-
-LinkedIn: Profile
-
-Email: upadhyaysandesh28@gmail.com
-
-💡 Contributions and feedback are always welcome!
-
+## Contact
+- GitHub: [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)
+- Portfolio: [sandesh-upadhyay.github.io](https://sandesh-upadhyay.github.io/)
+- Email: upadhyaysandesh28@gmail.com
